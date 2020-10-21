@@ -1,6 +1,7 @@
-# fairness_using_discripancy_min
+# fairness_using_discrepancy_min
 
 ##How to Run the code for each datasets
+
 1>Download both the folders "input" and "code" together in the same directory.
 
 2>Open .IPYNB files and run the cells from top to bottom in jupyter notebook. Names of each .IPYNB files contains the code for the corresponding dataset.
